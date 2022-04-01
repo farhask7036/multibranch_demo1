@@ -3,7 +3,7 @@ pipeline
     agent any
     stages
     {
-        stage('ContinousDownload-PersonalBanking')
+        stage('ContinousDownload-Credit Cards')
         {
             steps
             {
